@@ -36,6 +36,8 @@
     "stylint": "^1.5.9"
   },
   "dependencies": {
-    "hexo-admin": "^2.3.0"
+    "hexo-admin": "^2.3.0",
+    "hexo-pdf": "^1.1.1",
+    "hexo-wordcount": "^6.0.1"
   }
 }
