@@ -13,9 +13,9 @@ tags: profile
 #### 籍贯：安徽安庆市
 ---
 #### 教育背景：
-- 安徽省怀宁中学
-- 中央财经大学 计算机科学与技术系
-- 南京大学 计算机科学与技术系
+- [安徽省怀宁中学](http://www.ahhnzx.com/display.asp?id=1647)
+- [中央财经大学 计算机科学与技术系](http://ie.cufe.edu.cn/info/1094/3170.htm)
+- [南京大学 计算机科学与技术系](https://cs.nju.edu.cn/zhangyan/)
 ---
 #### 就职情况：
 - 北森云计算

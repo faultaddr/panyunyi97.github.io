@@ -84,17 +84,17 @@ deploy:
 live2d:
     enable: true
     scriptFrom: local
-    pluginRootPath: live2dw/
+    pluginRootPath: node_modules/hexo-helper-live2d/
     pluginJsPath: lib/
     pluginModelPath: assets/
     tagMode: false
     log: false
     model:
-        use: live2d-widget-model-wanko
+        use: live2d-widget-model-miku
     display:
         position: right
-        width: 150
-        height: 300
+        width: 500
+        height: 1000
     mobile:
         show: true
     react:
